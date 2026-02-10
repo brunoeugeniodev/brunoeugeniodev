@@ -1,9 +1,9 @@
-<h1 align="center">🚀 Bruno Eugênio</h1>
-<h3 align="center">Software Developer | ADS Student</h3>
+<h1 align="center">⚡ Bruno Eugênio</h1>
+<h3 align="center">Software Developer • ADS Student • Backend Focus</h3>
 
 <p align="center">
   <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/SEU_USUARIO_GITHUB">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
@@ -12,81 +12,85 @@
 
 ---
 
-## 👋 About Me
+## 🧠 Who Am I
 
-🎓 **Associate Degree Student in Systems Analysis and Development (ADS)**  
-💻 Passionate about backend development, clean code, and scalable systems.  
+🎓 **Systems Analysis and Development (ADS) Student**  
+💻 **Backend-oriented developer** with strong foundations in low-level and high-level languages.
 
-I have solid experience with **low-level and high-level languages**, building logical thinking from C/C++ to modern backend development with **Java & Spring**.  
-Currently, I am diving into **Kotlin**, focusing on modern and robust applications.
+I build software with a focus on **performance, clean architecture, and scalability**.  
+My journey started with **C and C++**, evolved through **Java & Spring**, and now continues with **Kotlin** for modern applications.
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin"/>
+</p>
 
-### 🧩 Frameworks & Web
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+**Frameworks & Web**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,html,css"/>
+</p>
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux"/>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🧩 What I Build
+- Backend systems with **Java & Spring**
+- REST APIs with clean architecture
+- Logical and performance-oriented solutions
+- Web applications with solid foundations
 
 ---
 
 ## 🌱 Currently Learning
-- Kotlin  
-- Backend Architecture  
-- Clean Code & Best Practices  
-- Software Design Patterns  
-
----
-
-## 🎯 Goals
-- Become a strong **Backend / Full Stack Developer**
-- Build impactful real-world projects
-- Continuously evolve as a software engineer
-
----
+- Kotlin
+- Software Architecture
+- Design Patterns
+- Clean Code
 
 ---
 
 ## 🇧🇷 Sobre Mim
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Focado em desenvolvimento backend, lógica sólida e sistemas escaláveis.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Desenvolvedor focado em backend, lógica forte e código bem estruturado.
 
-Minha base vem de linguagens como **C e C++**, evoluindo para **Java, Spring e desenvolvimento web**.  
-Atualmente estou estudando **Kotlin**, buscando dominar tecnologias modernas e bem estruturadas.
+Minha base vem de **C e C++**, avançando para **Java, Spring e desenvolvimento web**, e atualmente estudando **Kotlin**.
 
 ---
 
 <p align="center">
-  ⚡ <strong>"Code is not just written, it is engineered."</strong>
+  <strong>⚡ "Great software is built, not rushed."</strong>
 </p>
