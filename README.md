@@ -5,7 +5,7 @@
   <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/brunoeugeniodev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -44,7 +44,7 @@ My journey started with **C and C++**, evolved through **Java & Spring**, and no
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoeugeniodev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeugeniodev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
@@ -53,7 +53,7 @@ My journey started with **C and C++**, evolved through **Java & Spring**, and no
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=brunoeugeniodev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ My journey started with **C and C++**, evolved through **Java & Spring**, and no
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=brunoeugeniodev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
