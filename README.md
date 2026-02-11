@@ -17,7 +17,7 @@
 🎓 **Systems Analysis and Development (ADS) Student**  
 💻 **Backend-oriented developer** with strong foundations in low-level and high-level languages.
 
-I build software with a focus on **performance, clean architecture, and scalability**.  
+I build software with focus on **performance, clean architecture, and scalability**.  
 My journey started with **C and C++**, evolved through **Java & Spring**, and now continues with **Kotlin** for modern applications.
 
 ---
